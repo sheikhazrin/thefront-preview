@@ -45,15 +45,15 @@ const Hero = props => {
         >
           <SectionHeader
             title={
-              <span>
-                Beautiful data representation
+              <span class="aos-init" data-aos="fade-up">
+                Learn at CAREETOR.
                 <br />
                 <Typography component="span" variant="inherit" color="primary">
-                  built with theFront.
+                Join the Community of Top Retails Traders.
                 </Typography>
               </span>
             }
-            subtitle="World developers use our theFront theme to build their internal tools and client admin applications. Save yourself time and money."
+            subtitle="Learn the latest tech, earn money, and network with top retails traders passionate about building community."
             ctaGroup={[
               <Button variant="contained" color="primary" size="large">
                 Start now

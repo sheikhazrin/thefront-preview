@@ -65,14 +65,14 @@ const Features = props => {
               <SectionHeader
                 title={
                   <span>
-                    Use flexible components.
+                    Earn at CAREETOR.
                     <br />
                     <Typography component="span" variant="inherit" color="primary">
-                      to build an app quickly.
+                    Leverage passionate while earning
                     </Typography>
                   </span>
                 }
-                subtitle="theFront styles and extends Material-UI components, but also included brand new landing page focused components."
+                subtitle="Build cutting edge income alongside talented retail traders while learning and improve the latest skills."
                 align="left"
                 fadeUp
                 disableGutter

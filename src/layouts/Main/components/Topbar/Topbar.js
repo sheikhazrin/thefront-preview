@@ -74,7 +74,7 @@ const Topbar = props => {
         <a href="/" title="thefront">
           <Image
             className={classes.logoImage}
-            src="/images/logos/logo.svg"
+            src="/images/logos/logos.svg"
             alt="thefront"
             lazy={false}
           />
@@ -109,9 +109,9 @@ const Topbar = props => {
             <Typography
               variant="body1"
               color="textSecondary"
-              className={classes.listItemText}
+              className={classes.listItemText}href="/not-found"
               component="a"
-              href="/not-found"
+              
             >
               Error Page
             </Typography>
